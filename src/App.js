@@ -34,10 +34,11 @@ const App = () => {
         <p>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
         <div className="line"></div>
       </div>
-      <div className="c5">
-        <p><bold>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</bold></p>
-        <p>CHEMICALS & PROCESS | POWER WATER & WASTE WATER | OILS & GAS | PHARMA SUGARS & DISTILLERIES PAPER | PULP MARINE | DEFENCE METAL | MINING FOOD | BEVERAGE PETROCHEMICAL | REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE | RESIDENTIAL</p>
-      </div>
+      <div className="c5" >
+  <p><bold>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</bold></p>
+  <p>CHEMICALS & PROCESS | POWER WATER & WASTE WATER | OILS & GAS | PHARMA SUGARS & DISTILLERIES PAPER | PULP MARINE | DEFENCE METAL | MINING FOOD | BEVERAGE PETROCHEMICAL | REFINERIES SOLAR BUILDING HVAC FIRE FIGHTING AGRICULTURE | RESIDENTIAL</p>
+</div>
+
       
     </div>
   );
